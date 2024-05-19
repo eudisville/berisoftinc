@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/berisoftinc/static/css/main.75b8ea4b.css",
+    "main.js": "/berisoftinc/static/js/main.d7680d98.js",
+    "static/media/BKG.jpg": "/berisoftinc/static/media/BKG.20ed15c3eedaf330d567.jpg",
+    "static/media/Backg.png": "/berisoftinc/static/media/Backg.4045dcaf2cbebac1f9b7.png",
+    "index.html": "/berisoftinc/index.html",
+    "main.75b8ea4b.css.map": "/berisoftinc/static/css/main.75b8ea4b.css.map",
+    "main.d7680d98.js.map": "/berisoftinc/static/js/main.d7680d98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75b8ea4b.css",
+    "static/js/main.d7680d98.js"
+  ]
+}
